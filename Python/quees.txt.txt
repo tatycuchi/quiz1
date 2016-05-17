@@ -1,0 +1,2 @@
+Python es un lenguaje de programación interpretado, creado por Guido Van Rossum y administrado por PSF. 
+Su nombre proviene de Monty Python. 
