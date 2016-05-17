@@ -1,0 +1,7 @@
+Versiones de Python
+
+- Python 1.0
+- Python 2.0
+  Version actual: 2.7.10
+- python 3.0
+  Version actual: 3.4.3
