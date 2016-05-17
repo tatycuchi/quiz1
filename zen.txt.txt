@@ -1,0 +1,12 @@
+ZEN DE PYTHON
+
+- Bello es mejor que feo
+- explicito es mejor que implicito
+- simple es mejor que complejo
+- Plano es mejor que anidado
+- Disperso es mejor que denso
+- La legibilidad cuenta
+- Los casos especiales no son tan especiales para quebrantar reglas
+- Si la implementación es difícil de explicar, es una mala idea
+- Si la implementación es fácil de explicar, puede que sea buena idea
+- Los espacios de nombre son una gran idea, hagamos más de eso. 
